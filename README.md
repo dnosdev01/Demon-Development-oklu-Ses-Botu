@@ -23,3 +23,6 @@ Merhabalar! Umarım altyapımızı beğenmişsinizdir. Bu proje, **çoklu ses bo
 
    ```bash
    cd "C:\Bot\Klasor\Yolu"
+Discord: [dnoscim#00000](https://discord.com/users/1352517586604134442)
+
+[![Faruk#6126](https://discord.c99.nl/widget/theme-3/713215681377599531.png)](https://discord.com/users/1352517586604134442)
